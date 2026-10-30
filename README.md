@@ -1,7 +1,7 @@
 # TOANIX - Hệ thống sinh đề Toán học THCS
 ## 1. Nền tảng
 - Hiện tại chỉ hỗ trợ trên Windows.
-- Khuyến nghị: Windows 10+ (Build 1607).
+- Khuyến nghị: Windows 10+ (Build 1809).
 ## 2. Hỗ trợ
 - Dữ liệu: Các dạng đầy đủ từ lớp 6 đến lớp 9,
 - Tính năng: Tạo ra các câu hỏi ngẫu nhiên từ dữ liệu đã chọn.
