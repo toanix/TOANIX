@@ -1,0 +1,13 @@
+{
+  "version": "1.0.1",
+  "core_version": "1.0.1",
+  "release_date": "2026-11-14",
+  "download_url": "https://github.com/toanix/TOANIX/releases/download/v1.0.1/toanix_core.zip",
+  "file_name": "toanix_core.zip",
+  "file_size": 52428800,
+  "changelog": [
+    "Cập nhật Core Backend hỗ trợ xuất Word (.docx) chuẩn hóa MathType OLE v5",
+    "Tối ưu hóa tốc độ sinh câu hỏi trắc nghiệm GDPT 2018",
+    "Cải thiện cơ chế bảo mật và giao tiếp socket TCP 127.0.0.1:50000"
+  ]
+}
